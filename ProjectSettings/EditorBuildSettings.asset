@@ -5,16 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GameUI.unity
     guid: b95e2ec8ada94ed4299f457c80e7f390
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/LEVELONE.unity
     guid: 131de00ef36fbb4469cd8df32c6da812
   - enabled: 1
     path: Assets/Scenes/LEVELTWO.unity
     guid: 2f815a4a2b3ed574db0e30ce2a7cdbc3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/LobbyScene.unity
     guid: 5c14a18f1e357714cbd7e3f662ffce73
   m_configObjects: {}
