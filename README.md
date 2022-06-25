@@ -27,6 +27,7 @@ Note: Compiled game binary coming soon.
 - Setup a public online server that users can connect to and play with each other.
 
 ** Levels (Devlopment) **
+------------------
 
 ![LevelOne](https://user-images.githubusercontent.com/29809542/175788617-cd3907ac-37e7-4d61-81f2-b56222ea9881.png)
 *Level One Highlight - Jumping around and pushing block to jump from a higher platform.*
