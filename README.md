@@ -2,7 +2,7 @@
  
 ![MainMenu](https://user-images.githubusercontent.com/29809542/175788551-67959f5c-5115-4211-a504-ca7cb54d68b9.png)
 
-A multiplayer game that can be played with friends over the internet or local network. Currently has two levels.
+A multiplayer game that can be played with friends over the internet or local network. Currently has two levels. It is built on Unity Game platform with Mirror as it's networking library.
 
 ** How to play the game **
 ------------------
